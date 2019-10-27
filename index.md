@@ -22,3 +22,15 @@ My research focuses were Requirements Engineering and mining software repositori
 * **May 24th, 2017**: Presented *Mining Twitter Data for a More Responsive Software Engineering Process* at [ICSE 2017](http://icse2017.gatech.edu/), poster track.
 * **May 22nd, 2017**: Presented *Copper: Bringing Flexible Components to the .NET Framework* at [ECASE 2017](http://design.se.rit.edu/ECASE/).
 * **May 21st, 2017**: Presented *Analyzing, Classifying, and Interpreting Emotions in Software Users Tweets* at [SEmotion 2017](http://collab.di.uniba.it/semotion17/).
+
+----
+
+# Awards
+
+* **2018**: Best Poster Award, 2nd LSU Graduate Student Research Symposium (GSRS)
+* **2017**: ICSE Student Volunteer
+* **2017**: ACM CAPS/NSF Travel Award to Attend ICSE
+* **2017**: Graduate School Award to Attend ICSE
+* **2015**: NSF Travel Award to Attend the Requirements Enginering Conference (RE)
+* **2015**: Clayton Engineering Excellence Award for Outstanding Ph.D. Graduate Student
+
