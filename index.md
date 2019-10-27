@@ -25,6 +25,14 @@ My research focuses were Requirements Engineering and mining software repositori
 
 ----
 
+# Education
+
+**2015-2018** | Doctor of Philosophy (Ph.D.) in Computer Science and Engineering | Louisiana State University, Louisiana, USA | Advisor: Anas Mahmoud
+**2012-2014** | Master of Science (M.S.) in Mathematical Science, Concentration in Computer Science | McNeese State University, Louisiana, USA | Advisor: Vipin Menon
+**2008-2012** | Bachelor of Science (B.S.) in Computer Science, Minor in Mathematics | McNeese State University, Louisiana, USA | Advisor: William Albrecht
+
+----
+
 # Awards
 
 * **2018**: Best Poster Award, 2nd LSU Graduate Student Research Symposium (GSRS)
