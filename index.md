@@ -33,6 +33,25 @@ My research focuses were Requirements Engineering and mining software repositori
 
 ----
 
+# Publications
+
+See my [Google Scholar profile](https://scholar.google.com/citations?user=uifpy9gAAAAJ&hl=en) for a current list of all publications.
+
+----
+
+# Teaching Experience
+
+* Taught Object Oriented Design during the Spring 2019 semester as a full instructor. Received a perfect 5.0 student evaluation for "This Instructor is an Effective Teacher" out of 52 students evaluating (85 class enrollment)
+* Taught Object Oriented Design during the Spring 2018 semester as a full instructor.
+* TA experience (grading, student help, and occasional lectures):
+	* CSC 1240 Programming for Engineers (T.A.)
+	* CSC 1350 Introduction to Programming (T.A.)
+	* CSC 1351 Object Oriented Programming (T.A.)
+	* CSC 3501 Computer Organization and Design (T.A.)
+	* CSC 4330 Software Engineering (T.A.)
+
+----
+
 # Awards
 
 * **2018**: Best Poster Award, 2nd LSU Graduate Student Research Symposium (GSRS)
