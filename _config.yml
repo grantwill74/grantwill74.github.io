@@ -1,0 +1,10 @@
+theme: jekyll-theme-minimal
+name: Grant Williams' Personal Page
+markdown: kramdown
+title: Grant Williams
+description: I am an applied data scientist and software engineer at Microsoft.
+logo: logo.jpg
+email: grantwill {dot} 74 {at} gmail {dot} com
+linkedin: https://www.linkedin.com/in/grant-williams-910a6910b/
+google_scholar: https://scholar.google.com/citations?user=uifpy9gAAAAJ&hl=en
+dissertation: https://digitalcommons.lsu.edu/cgi/viewcontent.cgi?article=5878&context=gradschool_dissertations
