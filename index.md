@@ -27,11 +27,10 @@ My research focuses were Requirements Engineering and mining software repositori
 
 # Education
 
-**2015-2018** | Doctor of Philosophy (Ph.D.) in Computer Science and Engineering | Louisiana State University, Louisiana, USA | Advisor: Anas Mahmoud
+**2015-2019** | Doctor of Philosophy (Ph.D.) in Computer Science and Engineering | Louisiana State University, Louisiana, USA | Advisor: Anas Mahmoud
 **2012-2014** | Master of Science (M.S.) in Mathematical Science, Concentration in Computer Science | McNeese State University, Louisiana, USA | Advisor: Vipin Menon
 **2008-2012** | Bachelor of Science (B.S.) in Computer Science, Minor in Mathematics | McNeese State University, Louisiana, USA | Advisor: William Albrecht
 
-----
 
 # Publications
 
@@ -41,8 +40,8 @@ See my [Google Scholar profile](https://scholar.google.com/citations?user=uifpy9
 
 # Teaching Experience
 
-* Taught Object Oriented Design during the Spring 2019 semester as a full instructor. Received a perfect 5.0 student evaluation for "This Instructor is an Effective Teacher" out of 52 students evaluating (85 class enrollment)
-* Taught Object Oriented Design during the Spring 2018 semester as a full instructor.
+* Taught **CSC 3380, Object Oriented Design** during the Spring 2019 semester as a full instructor. Received a perfect **5.0 student evaluation** for overall feedback item: "This Instructor is an Effective Teacher" out of 52 students evaluating (85 student enrollment for class)
+* Taught Object Oriented Design during the Spring 2018 semester as a full instructor. (85 students)
 * TA experience (grading, student help, and occasional lectures):
 	* CSC 1240 Programming for Engineers (T.A.)
 	* CSC 1350 Introduction to Programming (T.A.)
