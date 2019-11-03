@@ -10,8 +10,12 @@ I am an applied data scientist and software engineer working at Microsoft. I rec
 
 My research focuses were Requirements Engineering and mining software repositories. In my research I tackle problems related to analyzing and synthesizing user feedback available on app store and on social media outlets to enable a more responsive software engineering process. I applied natural language processing and machine learning techniques to do this.
 
-Sections:
-[News](#news) [Education](#education) [Publications](#publications) [Teaching Experience](#teaching-experience) [Awards](#awards)
+## Sections
+* [News](#news) 
+* [Education](#education) 
+* [Publications](#publications) 
+* [Teaching Experience](#teaching-experience) 
+* [Awards](#awards)
 
 -----
 
