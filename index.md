@@ -10,9 +10,12 @@ I am an applied data scientist and software engineer working at Microsoft. I rec
 
 My research focuses were Requirements Engineering and mining software repositories. In my research I tackle problems related to analyzing and synthesizing user feedback available on app store and on social media outlets to enable a more responsive software engineering process. I applied natural language processing and machine learning techniques to do this.
 
+Sections:
+[News](#news) [Education](#education) [Publications](#publications) [Teaching Experience](#teaching-experience) [Awards](#awards)
+
 -----
 
-# News
+# News <a name="news"></a>
 
 * **August 12th, 2019**: I am now a Data Scientist 2 at Microsoft corporation. 
 * **February 11th, 2019**: [*Learning from Failure: Modeling User Goals in the App Market*](http://blog.ieeesoftware.org/2019/02/learning-from-failure-modeling-user.html) was posted to the IEEE Software blog. 
@@ -25,20 +28,20 @@ My research focuses were Requirements Engineering and mining software repositori
 
 ----
 
-# Education
+# Education <a name="education"></a>
 
 **2015-2019** | Doctor of Philosophy (Ph.D.) in Computer Science and Engineering | Louisiana State University, Louisiana, USA | Advisor: Anas Mahmoud
 **2012-2014** | Master of Science (M.S.) in Mathematical Science, Concentration in Computer Science | McNeese State University, Louisiana, USA | Advisor: Vipin Menon
 **2008-2012** | Bachelor of Science (B.S.) in Computer Science, Minor in Mathematics | McNeese State University, Louisiana, USA | Advisor: William Albrecht
 
 
-# Publications
+# Publications <a name="publications"></a>
 
 See my [Google Scholar profile](https://scholar.google.com/citations?user=uifpy9gAAAAJ&hl=en) for a current list of all publications.
 
 ----
 
-# Teaching Experience
+# Teaching Experience <a name="teaching-experience"></a>
 
 * Taught **CSC 3380, Object Oriented Design** during the Spring 2019 semester as a full instructor. Received a perfect **5.0 student evaluation** for overall feedback item: "This Instructor is an Effective Teacher" out of 52 students evaluating (85 student enrollment for class)
 * Taught Object Oriented Design during the Spring 2018 semester as a full instructor. (85 students)
@@ -51,7 +54,7 @@ See my [Google Scholar profile](https://scholar.google.com/citations?user=uifpy9
 
 ----
 
-# Awards
+# Awards <a name="awards"></a>
 
 * **2018**: Best Poster Award, 2nd LSU Graduate Student Research Symposium (GSRS)
 * **2017**: ICSE Student Volunteer
