@@ -21,6 +21,7 @@ My research focuses were Requirements Engineering and mining software repositori
 
 # News <a name="news"></a>
 
+* **December 3rd, 2019**: [*Using GitHub in large software engineering classes. An exploratory case study*](https://www.tandfonline.com/doi/full/10.1080/08993408.2019.1696168) has been published in Computer Science Education (CSE).
 * **August 12th, 2019**: I am now a Data Scientist 2 at Microsoft corporation. 
 * **February 11th, 2019**: [*Learning from Failure: Modeling User Goals in the App Market*](http://blog.ieeesoftware.org/2019/02/learning-from-failure-modeling-user.html) was posted to the IEEE Software blog. 
 * **May 30th, 2018**: I will be an intern at Microsoft Research during this upcoming summer break.
