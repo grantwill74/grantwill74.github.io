@@ -6,7 +6,7 @@ show_downloads: false
 
 # About Me
 
-I am an applied data scientist and software engineer working at Microsoft. I received my Ph.D. from Louisiana State University, where I worked with [Nash Mahmoud](http://csc.lsu.edu/~mahmoud/) at [SEEL — the Software Engineering and Evolution Lab at LSU](http://seel.cse.lsu.edu/).
+I received my Ph.D. from Louisiana State University, where I worked with [Nash Mahmoud](http://csc.lsu.edu/~mahmoud/) at [SEEL — the Software Engineering and Evolution Lab at LSU](http://seel.cse.lsu.edu/).
 
 My research focuses were Requirements Engineering and mining software repositories. In my research I tackle problems related to analyzing and synthesizing user feedback available on app store and on social media outlets to enable a more responsive software engineering process. I applied natural language processing and machine learning techniques to do this.
 
@@ -21,6 +21,7 @@ My research focuses were Requirements Engineering and mining software repositori
 
 # News <a name="news"></a>
 
+* **January 10th, 2022** I will start teaching at Washington State University Vancouver in the spring.
 * **December 3rd, 2019**: [*Using GitHub in large software engineering classes. An exploratory case study*](https://www.tandfonline.com/doi/full/10.1080/08993408.2019.1696168) has been published in Computer Science Education (CSE).
 * **August 12th, 2019**: I am now a Data Scientist 2 at Microsoft corporation. 
 * **February 11th, 2019**: [*Learning from Failure: Modeling User Goals in the App Market*](http://blog.ieeesoftware.org/2019/02/learning-from-failure-modeling-user.html) was posted to the IEEE Software blog. 
